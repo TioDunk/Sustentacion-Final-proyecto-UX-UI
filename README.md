@@ -4,7 +4,7 @@
 
 Proyecto integrador del curso UI/UX para Arquitectos (EFIN-UIUX20265), Maestría en Arquitectura de Software, Universidad de La Sabana, 2026.
 
-**Prototipo navegable:** https://claude.ai/artifact/WVxaaMYDuLnyBAH6MTdv5R
+**Prototipo navegable:** https://www.figma.com/design/J9s6lRuJMmNvEPS5Fghiui/UX-UI-U-Sabana?node-id=2-3&t=iFyyrGrMKU9PZFF0-1
 
 ---
 
